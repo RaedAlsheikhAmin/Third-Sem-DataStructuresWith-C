@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673210060 source:d:\third semester\cng213 data structure\practical assignments\practical assignment 3\farnaz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

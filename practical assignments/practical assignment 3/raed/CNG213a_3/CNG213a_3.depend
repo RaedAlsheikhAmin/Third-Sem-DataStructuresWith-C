@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673178862 source:d:\third semester\cng213 data structure\practical assignments\practical assignment 3\raed\cng213a_3\indexingearthquakes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"avltree.h"
+
+1673177358 d:\third semester\cng213 data structure\practical assignments\practical assignment 3\raed\cng213a_3\avltree.h
+

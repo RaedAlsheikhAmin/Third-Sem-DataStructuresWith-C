@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1608218463 source:c:\users\saeed\onedrive\desktop\odtu\fall 2021\data structure\worksheet\assinment 2\assignment2ff\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"queue.h"
+
+1608216210 source:c:\users\saeed\onedrive\desktop\odtu\fall 2021\data structure\worksheet\assinment 2\assignment2ff\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1608216060 c:\users\saeed\onedrive\desktop\odtu\fall 2021\data structure\worksheet\assinment 2\assignment2ff\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1608216210 source:c:\users\saeed\onedrive\desktop\odtu\fall 2021\data structure\worksheet\assinment 2\cng213a2\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1608218463 source:c:\users\saeed\onedrive\desktop\odtu\fall 2021\data structure\worksheet\assinment 2\cng213a2\ventilatorsimulation.c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"queue.h"
+
+1608216060 c:\users\saeed\onedrive\desktop\odtu\fall 2021\data structure\worksheet\assinment 2\cng213a2\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

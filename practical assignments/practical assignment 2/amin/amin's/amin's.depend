@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670181622 source:d:\third semester\cng213 data structure\practical assignments\practical assignment 2\amin\packagesdeliveryservicesimulator.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+	<time.h>
+
+1670182014 d:\third semester\cng213 data structure\practical assignments\practical assignment 2\amin\queue.h
+	<stdio.h>
+	<stdlib.h>
+

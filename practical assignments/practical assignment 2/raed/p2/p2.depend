@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1670759623 source:d:\third semester\cng213 data structure\practical assignments\practical assignment 2\p2\packagesdeliveryservicesimulator.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	"q.h"
+
+1670698496 d:\third semester\cng213 data structure\practical assignments\practical assignment 2\p2\q.h
+
+1670759623 source:d:\third semester\cng213 data structure\practical assignments\practical assignment 2\raed\p2\packagesdeliveryservicesimulator.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	"q.h"
+
+1670698496 d:\third semester\cng213 data structure\practical assignments\practical assignment 2\raed\p2\q.h
+

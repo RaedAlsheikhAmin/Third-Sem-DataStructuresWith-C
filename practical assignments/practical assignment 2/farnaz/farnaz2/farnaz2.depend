@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670785823 source:d:\third semester\cng213 data structure\practical assignments\practical assignment 2\farnaz\deleteit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
